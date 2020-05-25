@@ -62,7 +62,7 @@ p {
 	top:0;
 	left:0;
     background-size:cover;
-    background-repeat:none;
+    background-repeat:no-repeat;
 	opacity:0;
     -webkit-animation: anim_slides 18s linear infinite 0s;
     -moz-animation: anim_slides 18s linear infinite 0s;
